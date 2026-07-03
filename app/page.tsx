@@ -12,7 +12,7 @@ export default async function BoardPage() {
   return (
     <div>
       <div className="mb-10">
-        <h1 className="font-display font-700 text-3xl sm:text-4xl mb-2">Hlimthla</h1>
+        <h1 className="font-display font-700 text-3xl sm:text-4xl mb-2">Heiha huiha</h1>
         <p className="text-slate max-w-xl">
           Thuchhuah, thlalak(hlimthla) leh documents UVCE-a lut te tana hriat tur pawimawh ho...
         </p>

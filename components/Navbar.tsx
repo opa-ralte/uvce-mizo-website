@@ -25,7 +25,7 @@ export default async function Navbar() {
         </Link>
         <nav className="flex items-center gap-5 text-sm font-medium">
           <Link href="/" className="hover:text-pine transition-colors">
-            Hlimthla
+            Heiha huiha
           </Link>
           <Link href="/discussion" className="hover:text-pine transition-colors">
             Zeldin titi
